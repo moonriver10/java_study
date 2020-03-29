@@ -1,4 +1,4 @@
-package 공유객체;
+package Calculator;
 
 public class User1 extends Thread {
 

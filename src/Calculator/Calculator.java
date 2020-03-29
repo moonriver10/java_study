@@ -1,4 +1,4 @@
-package 공유객체;
+package Calculator;
 
 public class Calculator {
 
@@ -11,7 +11,7 @@ public class Calculator {
 	public void setMemory(int memory) {
 		this.memory = memory;
 		try {
-			Thread.sleep(2000);
+			Thread.sleep(2000); 
 		}catch(Exception e){
 			
 		}
