@@ -15,6 +15,6 @@ public class Calculator {
 		}catch(Exception e){
 			
 		}
-		System.out.println(Thread.currentThread().getName()+":"+this.memory);
+		System.out.println(Thread.currentThread().getName()+"-"+this.memory);
 	}
 }
